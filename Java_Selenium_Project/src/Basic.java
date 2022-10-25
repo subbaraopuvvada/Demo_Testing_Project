@@ -6,6 +6,8 @@ public class Basic {
 		
 		
 		System.out.println("hi");
+		
+		System.out.println("789456");
 	}
 
 }
