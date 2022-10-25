@@ -8,6 +8,12 @@ public class Basic {
 		System.out.println("hi");
 		
 		System.out.println("789456");
+		
+	System.out.println("hi");
+		
+		System.out.println("789456");
+		
+		
 	}
 
 }
